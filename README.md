@@ -23,4 +23,4 @@ In this repository, the main fundaments of this proposal can be found:
 
 ## Proof of concept
 
-A proof of concept showing the method and its effectiveness can be found in the document [proof-of-concept.pdf](proof-of-concept.pdf)
+A proof of concept showing the method and its effectiveness can be found in the document [proof-of-concept.pdf](proof-of-concept.pdf) (in Spanish).
