@@ -13,4 +13,6 @@ Nevertheless, the advantage TEM presents is its disponibility, speed, sensibilit
 ## Alteranative methods
 It is valued the use of other techniques, mainly projection based, with wave types that allow a sufficient resolution.
 
-[1]  Roingeard, P, Raynal, P‐I, Eymieux, S, Blanchard, E. Virus detection by transmission electron microscopy: Still useful for diagnosis and a plus for biosafety. Rev Med Virol. 2019; 29:e2019. doi.org/10.1002/rmv.2019
+# References
+
+[1]:  Roingeard, P, Raynal, P‐I, Eymieux, S, Blanchard, E. Virus detection by transmission electron microscopy: Still useful for diagnosis and a plus for biosafety. Rev Med Virol. 2019; 29:e2019. <doi.org/10.1002/rmv.2019>
