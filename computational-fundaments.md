@@ -14,4 +14,4 @@ Computer vision for clinical use has been studied and implemented with satisfact
 
 
 # References
-[1]: https://www.imperial.ac.uk/news/183293/research-collaboration-aims-improve-breast-cancer/
+[1] https://www.imperial.ac.uk/news/183293/research-collaboration-aims-improve-breast-cancer/
