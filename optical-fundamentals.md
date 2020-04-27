@@ -1,4 +1,4 @@
-# Optical fundaments
+# Optical fundamentals
 
 Based on the characteristics of the virion, the acquisition of image samples requires a resolution of aproximately 20nm minimum to be able to appreciate the relief of the capsid. Given that this relief is the discriminating property of the virus, the ability to distinguish it is critical. For this several options are proposed:
 

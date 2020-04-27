@@ -1,4 +1,4 @@
-# Epidemiological fundaments
+# Epidemiological fundamentals
 
 To assess the level of effectiveness of this testing method it is needed to know the prevalence of te virus of interest (SARS-CoV-2) against others of the Coronaviridae family in humans.
 The majority of viruses of this family affect other mammals and fowls. In this respect, other six viruses are known to affect humans:

@@ -14,12 +14,12 @@ The setup needed for the retreival of the samples will require staff familiarize
 
 ## This repository
 
-In this repository, the main fundaments of this proposal can be found:
+In this repository, the main fundamentals of this proposal can be found:
 
-* [Biological fundaments](biological-fundaments.md)
-* [Optical fundaments](optical-fundaments.md)
-* [Epidemiological fundaments](epidemiological-fundaments.md)
-* [Computational fundaments](computational-fundaments.md)
+* [Biological fundamentals](biological-fundamentals.md)
+* [Optical fundamentals](optical-fundamentals.md)
+* [Epidemiological fundamentals](epidemiological-fundamentals.md)
+* [Computational fundamentals](computational-fundamentals.md)
 
 ## Proof of concept
 
