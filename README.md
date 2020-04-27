@@ -1,26 +1,26 @@
 # GOTA
 
-GOTA (diaGnóstico Óptico-morfomaTemático Automático) is a computer-aided fast optical testing method for COVID-19. For more information see [our DevPost page](https://devpost.com/software/gota).
+GOTA (diaGnostic Optical-morphomaThematic Automation) is a computer-aided fast optical testing method for COVID-19. For more information see [our DevPost page](https://devpost.com/software/gota).
 
 ## About the project
 
-This project is aimed to propose a solution for fast testing of the virus SARS-CoV-2. Due to its technical characteristics, this test is not a definitive diagnosis, but rather a diferential diagnostic test. This test is summarized in three procedures:
+This project aims to propose a solution for fast testing of COVID-19 by the recognition of SARS-CoV-2 virions. Due to its technical characteristics, this test it does not provide a definitive, 100% specific diagnosis, but rather a differential diagnostic assessment. This test can be summarised in three procedures:
 
-* Retreiving and processing of the virus sample
-* Acquisition of images of the sample
-* Automatic processing of the images to obtain a diagnosis
+* Retrieval and treatment of the viral sample
+* Image acquisition of the sample
+* Automatic processing of the images to determine diagnosis
 
-The setup needed for the retreival of the samples will require staff familiarized with the equipment, but will be highly replicable and reduce costs and time required to obtain a diagnosis.
+The setup needed for the retreival of the samples will require staff familiarised with the equipment, but will be highly replicable and reduce costs and the time required to obtain a diagnosis, which can be optimised to take 20 min from sample collection to diagnosis.
 
 ## This repository
 
-In this repository, the main fundamentals of this proposal can be found:
+This repository covers the main groundwork and scientific bases of the proposal:
 
-* [Biological fundamentals](biological-fundamentals.md)
-* [Optical fundamentals](optical-fundamentals.md)
-* [Epidemiological fundamentals](epidemiological-fundamentals.md)
-* [Computational fundamentals](computational-fundamentals.md)
+* [Biological basis](biological-fundaments.md)
+* [Optical basis](optical-fundaments.md)
+* [Virological basis](epidemiological-fundaments.md)
+* [Computational basis](computational-fundaments.md)
 
-## Proof of concept
+## Proof of concept - DEMO
 
 A proof of concept showing the method and its effectiveness can be found in the document [proof-of-concept.pdf](proof-of-concept.pdf) (in Spanish).
