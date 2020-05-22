@@ -1,4 +1,4 @@
-# Computational fundaments
+# Computational fundamentals
 
 Computer vision has seen great advances in the last years. Where results delayed 15 days, now they can be obtained in less than 15 minutes. The key points for this enhancement are:
 
